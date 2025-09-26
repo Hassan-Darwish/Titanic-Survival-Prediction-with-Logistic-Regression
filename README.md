@@ -61,9 +61,7 @@ The model was evaluated on the test set using classification accuracy. The from-
 
 Below is a plot showing the sigmoid function's fit against the "Age" feature for predicting survival probability.
 
-(You can add a screenshot of your plot here)
-
-![Logistic Regression Fit](<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/148999d2-b1e5-4b95-9b7a-303a760f1866" />){width="800" alt="Logistic Regression Fit"}
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/148999d2-b1e5-4b95-9b7a-303a760f1866">
 
 🚀 How to Run
 
